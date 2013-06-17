@@ -1,4 +1,7 @@
 Railsbook::Application.routes.draw do
+  resources :alters
+
+
   resources :statuses
 
 
